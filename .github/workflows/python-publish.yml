@@ -36,4 +36,4 @@ jobs:
             context: .
             file: ./Dockerfile
             push: true
-            tag_with_ref: true
+ 
